@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+.notebooks_cache/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & results
+/data/
+/results/
+*.npz
+*.npy
+*.csv
+*.png
+*.pdf
+
+# Build
+build/
+dist/
+*.egg-info/
